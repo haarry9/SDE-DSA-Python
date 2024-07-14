@@ -12,4 +12,13 @@ The SDE sheet contains a curated list of common data structures, algorithms, and
     - Recursion
         1. Binary Search - recursive implementation
     - Hashing
-        1. soon to be updated....
+        1. Counting Frequency of array elements
+        2. Find the highest and lowest frequency element
+- 2_Sorting
+    1. Selection sort
+    2. Bubble sort
+    3. Insertion sort
+    4. Merge sort
+    5. Recursive Bubble sort
+    6. Recursive Insertion sort
+    7. Quick sort
